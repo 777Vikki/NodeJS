@@ -1,0 +1,4 @@
+# Theme: JellyFish Theme
+# nodemon index.js is used for run server.
+# If we want to use some dependency for dev. we can use npm install --save-dev nodemon 
+# Express is a function that contain request and response object access and can be changed.
